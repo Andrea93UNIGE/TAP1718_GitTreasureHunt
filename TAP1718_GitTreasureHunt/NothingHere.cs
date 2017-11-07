@@ -1,13 +1,10 @@
 ﻿using System;
-
-
 namespace TAP1718_GitTreasureHunt
 {
-    class Program
+    public class NothingHere
     {
-        public static void Main(string[] args)
+        public NothingHere()
         {
-            
         }
     }
 }
