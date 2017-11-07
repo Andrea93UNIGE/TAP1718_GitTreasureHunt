@@ -7,7 +7,7 @@ namespace TAP1718_GitTreasureHunt
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("B1_Best non era così bella.");
+            System.Diagnostics.Process.Start("https://www.youtube.com/watch?v=g1makJ5JSUI");
         }
     }
 }
