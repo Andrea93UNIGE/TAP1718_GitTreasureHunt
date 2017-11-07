@@ -18,6 +18,14 @@ namespace TAP1718_GitTreasureHunt
             Console.WriteLine(this.ToString());
         }
 
+        public void DoSomethingGood()
+        {
+            Console.WriteLine("PYTHON IS GOOD");
+        }
+        public void DoSomethingBad()
+        {
+            Console.WriteLine("I LOVE JS");
+        }
         public override bool Equals(object obj)
         {
             var file = obj as File;
