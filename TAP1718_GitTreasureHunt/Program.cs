@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Diagnostics;
-using System.Drawing;
-using System.Windows.Forms;
+
 
 namespace TAP1718_GitTreasureHunt
 {
