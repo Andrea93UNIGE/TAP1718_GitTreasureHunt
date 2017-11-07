@@ -7,7 +7,13 @@ namespace TAP1718_GitTreasureHunt
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("TECNICHE AVANZATE DI PROGRAMMAZIONE 2017/2018");
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("BENVENUTO NELLA CACCIA AL TESORO!");
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("Segui gli indizi (la numerazione non conta) per arrivare alla soluzione.\n");
+            Console.WriteLine("Indizio 0x00:");
+            Console.WriteLine("Lo sviluppatore aveva voglia di pizza.");
         }
     }
 }
