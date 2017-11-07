@@ -7,7 +7,8 @@ namespace TAP1718_GitTreasureHunt
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Non c'è niente qui di importante. Mi dispiace.");
+            Console.WriteLine("Ma qui sembra tutto molto molto molto vuoto...");
+            System.Diagnostics.Process.Start("https://media.giphy.com/media/VfyC5j7sR4cso/giphy.gif");
         }
     }
 }
