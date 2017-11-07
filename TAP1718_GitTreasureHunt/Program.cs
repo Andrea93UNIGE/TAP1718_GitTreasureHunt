@@ -7,7 +7,7 @@ namespace TAP1718_GitTreasureHunt
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("B1_Best non era così bella.");
+            Console.WriteLine("Non capisco cosa sto scrivendo. Maybe glibberish");
         }
     }
 }
