@@ -7,7 +7,7 @@ namespace TAP1718_GitTreasureHunt
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(NothingHere.nannannannannannanBATMAN);
+            Console.WriteLine(NothingHere.JSWAT);
         }
     }
 }
