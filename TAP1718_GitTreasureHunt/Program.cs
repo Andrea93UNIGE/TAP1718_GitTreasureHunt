@@ -7,7 +7,7 @@ namespace TAP1718_GitTreasureHunt
     {
         public static void Main(string[] args)
         {
-            System.Diagnostics.Process.Start("congrats.jpg");
+            Console.WriteLine("Non c'è niente qui di importante. Mi dispiace.");
         }
     }
 }
