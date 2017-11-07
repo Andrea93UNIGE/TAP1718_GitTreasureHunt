@@ -7,8 +7,10 @@ namespace TAP1718_GitTreasureHunt
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Ma qui sembra tutto molto molto molto vuoto...");
-            System.Diagnostics.Process.Start("https://media.giphy.com/media/VfyC5j7sR4cso/giphy.gif");
+            Console.WriteLine("Indizio 2:");
+            Console.WriteLine("Cercate la commit in cui è stato rimosso File.cs.");
+            Console.WriteLine("... non è troppo difficile.");
+            Console.WriteLine(B1_Best.THE_DEFAULT_VALUE);
         }
     }
 }
