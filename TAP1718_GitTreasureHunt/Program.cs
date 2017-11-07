@@ -7,7 +7,8 @@ namespace TAP1718_GitTreasureHunt
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(NothingHere.nannannannannannanBATMAN);
+            Console.WriteLine("Indizio <numero a caso>:");
+            Console.WriteLine("B1_Best è un file importante...");
         }
     }
 }
