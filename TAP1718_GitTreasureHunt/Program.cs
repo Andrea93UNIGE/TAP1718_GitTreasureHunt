@@ -7,10 +7,8 @@ namespace TAP1718_GitTreasureHunt
     {
         public static void Main(string[] args)
         {
-
-            new File(1000, "Carlo Felice").DoSomething();
-            new File(450, "Carlo Felice").DoSomethingBad();
-            new File(800, "Carlo Felice").DoSomethingGood();
+            Console.WriteLine("Indizio 4:");
+            Console.WriteLine("Cercate gli stakeholder.");
         }
     }
 }
